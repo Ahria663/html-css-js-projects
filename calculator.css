@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 24px;
+    transform: scale(1);
+}
+#calcs{
+    background-color: bisque;
+    padding: 25px;
+    border-radius: 12px;
+}
+
+button {
+    background-color: rgb(198, 118, 198);
+    color: white;
+    border-radius: 12px;
+    padding: 5px 10px;
+}
+
+input[type="text"] {
+    font-size: 24px;
+    padding: 12px;
+    width: 300px;
+}
